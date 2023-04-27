@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "Compile Test",
+      "setup": "",
+      "run": "make",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "BufferManager OCF Test",
+      "setup": "make",
+      "run": "./pa2 BufferOCF",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "BufferManager Expand Test",
+      "setup": "make",
+      "run": "./pa2 Expand",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "BufferManager Compact Test",
+      "setup": "make",
+      "run": "./pa2 Compact",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "String OCF Test",
+      "setup": "make",
+      "run": "./pa2 OCF",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "String Insert Test",
+      "setup": "make",
+      "run": "./pa2 Insert",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "String Append Test",
+      "setup": "make",
+      "run": "./pa2 Append",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "String Replace Test",
+      "setup": "make",
+      "run": "./pa2 Replace",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "String Erase Test",
+      "setup": "make",
+      "run": "./pa2 Erase",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "String Search Test",
+      "setup": "make",
+      "run": "./pa2 Search",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "String Compare Test",
+      "setup": "make",
+      "run": "./pa2 Compare",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "String Performance Test",
+      "setup": "make",
+      "run": "./pa2 Speed",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
